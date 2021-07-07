@@ -14,7 +14,7 @@ Looking for that, there were assumed some premises:
 - There will some way to know the reports which is necessary to generate report
 - It will be possible generate a AWS lambda for this job 
 
-You can look for report model [here](/report)
+You can look for report model [here](/reportmodel)
 
 ## Solution local test
 
