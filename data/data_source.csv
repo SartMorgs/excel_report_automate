@@ -1,0 +1,251 @@
+date,campaignuuid,name,media_type,campaign_type,zone_type,delivered,impression,converted,clicked,complete,cpm,volume
+2021-06-01,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,277367,147042,72344,0,72349,0.00,0
+2021-06-01,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,131400,121366,2104,0,7057,0.00,0
+2021-06-01,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,142925,132319,1895,0,5953,0.00,0
+2021-06-01,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,356713,333135,46315,0,46258,0.00,0
+2021-06-01,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,925,916,9,0,9,0.00,0
+2021-06-01,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,144999,134355,1863,0,9782,0.00,0
+2021-06-02,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,250098,132004,65004,0,65007,0.00,0
+2021-06-02,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,164623,152173,1370,0,4662,0.00,0
+2021-06-02,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,178316,164924,1051,0,3352,0.00,0
+2021-06-02,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,295937,275054,25608,0,25595,0.00,0
+2021-06-02,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,893,889,1,0,1,0.00,0
+2021-06-02,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,176022,162930,1111,0,6083,0.00,0
+2021-06-03,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,330508,177790,87240,0,87245,0.00,0
+2021-06-03,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,181792,166801,2004,0,6277,0.00,0
+2021-06-03,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,193426,177821,1831,0,5614,0.00,0
+2021-06-03,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,396445,366152,52769,0,52671,0.00,0
+2021-06-03,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1042,1036,33,0,33,0.00,0
+2021-06-03,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,194206,178480,1839,0,9373,0.00,0
+2021-06-04,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,296475,155310,75883,0,75883,0.00,0
+2021-06-04,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,153168,141007,2108,0,6681,0.00,0
+2021-06-04,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,162474,149619,1953,0,6035,0.00,0
+2021-06-04,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,364864,336152,55864,0,55820,0.00,0
+2021-06-04,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,918,911,29,0,29,0.00,0
+2021-06-04,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,167604,154058,1922,0,9896,0.00,0
+2021-06-05,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,311970,168058,82631,0,82632,0.00,0
+2021-06-05,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,170918,158451,2046,0,6518,0.00,0
+2021-06-05,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,179090,166009,1901,0,5878,0.00,0
+2021-06-05,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,370296,343192,49422,0,49388,0.00,0
+2021-06-05,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1134,1125,3,0,3,0.00,0
+2021-06-05,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,185579,171678,1858,0,9569,0.00,0
+2021-06-06,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,293377,159590,78559,0,78561,0.00,0
+2021-06-06,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,159211,146817,1911,0,6064,0.00,0
+2021-06-06,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,166296,154495,1794,0,5536,0.00,0
+2021-06-06,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,355892,329744,51432,0,51385,0.00,0
+2021-06-06,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1665,1658,4,0,4,0.00,0
+2021-06-06,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,163569,151862,1863,0,9784,0.00,0
+2021-06-07,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,323127,173182,84772,0,84776,0.00,0
+2021-06-07,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,175897,162313,2053,0,6431,0.00,0
+2021-06-07,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,173899,161212,2063,0,6444,0.00,0
+2021-06-07,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,396416,365930,60229,0,60193,0.00,0
+2021-06-07,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,2145,2142,2,0,2,0.00,0
+2021-06-07,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,167235,154898,2124,0,11094,0.00,0
+2021-06-08,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,358172,190552,93486,0,93489,0.00,0
+2021-06-08,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,177860,163816,2194,0,7031,0.00,0
+2021-06-08,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,193128,178988,1997,0,6171,0.00,0
+2021-06-08,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,435704,401617,64191,0,64131,0.00,0
+2021-06-08,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1872,1856,0,0,0,0.00,0
+2021-06-08,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,190937,177051,2090,0,10784,0.00,0
+2021-06-09,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,230838,119162,58294,0,58298,0.00,0
+2021-06-09,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,108652,99902,2069,0,6686,0.00,0
+2021-06-09,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,116407,106922,1931,0,5965,0.00,0
+2021-06-09,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,307010,281916,54587,0,54480,0.00,0
+2021-06-09,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1260,1241,22,0,22,0.00,0
+2021-06-09,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,117538,108642,1931,0,10027,0.00,0
+2021-06-10,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,233823,123868,60106,0,60107,0.00,0
+2021-06-10,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,123871,114666,1980,0,6511,0.00,0
+2021-06-10,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,128815,119412,1850,0,5789,0.00,0
+2021-06-10,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,296484,275553,47115,0,47052,0.00,0
+2021-06-10,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1672,1659,0,0,0,0.00,0
+2021-06-10,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,131791,122204,1814,0,9497,0.00,0
+2021-06-11,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,281834,150988,73815,0,73816,0.00,0
+2021-06-11,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,144034,133399,1937,0,6318,0.00,0
+2021-06-11,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,158119,146226,1744,0,5423,0.00,0
+2021-06-11,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,333087,308592,45597,0,45537,0.00,0
+2021-06-11,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1857,1850,0,0,0,0.00,0
+2021-06-11,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,155824,144422,1799,0,9439,0.00,0
+2021-06-12,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,232366,126606,62056,0,62058,0.00,0
+2021-06-12,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,138291,128822,1534,0,4794,0.00,0
+2021-06-12,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,136711,126700,1593,0,5012,0.00,0
+2021-06-12,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,277420,257328,38278,0,38237,0.00,0
+2021-06-12,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1807,1783,4,0,4,0.00,0
+2021-06-12,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,137071,127599,1614,0,8684,0.00,0
+2021-06-13,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,281180,150834,73628,0,73629,0.00,0
+2021-06-13,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,156499,143407,1624,0,5215,0.00,0
+2021-06-13,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,167833,153047,1518,0,4721,0.00,0
+2021-06-13,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,325073,300015,42909,0,42871,0.00,0
+2021-06-13,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,792,772,5,0,5,0.00,0
+2021-06-13,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,161984,148346,1611,0,8516,0.00,0
+2021-06-14,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,281260,153594,74151,0,74158,0.00,0
+2021-06-14,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,150844,137500,1898,0,6186,0.00,0
+2021-06-14,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,162339,147364,1774,0,5565,0.00,0
+2021-06-14,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,338217,309018,45378,0,45258,0.00,0
+2021-06-14,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1348,1331,3,0,3,0.00,0
+2021-06-14,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,167054,152710,1766,0,9258,0.00,0
+2021-06-15,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,247070,134452,65859,0,65865,0.00,0
+2021-06-15,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,58,54,6,0,6,0.00,0
+2021-06-15,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,135343,124030,1927,0,6279,0.00,0
+2021-06-15,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,146562,133795,1759,0,5474,0.00,0
+2021-06-15,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,306859,281470,45291,0,45183,0.00,0
+2021-06-15,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1417,1407,0,0,0,0.00,0
+2021-06-15,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,22,22,5,0,15,0.00,0
+2021-06-15,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,33,32,3,0,16,0.00,0
+2021-06-15,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,142017,130344,1810,0,9517,0.00,0
+2021-06-15,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,47,46,2,0,6,0.00,0
+2021-06-16,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,280263,153374,75364,0,75372,0.00,0
+2021-06-16,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,25372,23032,2944,0,2937,0.00,0
+2021-06-16,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,142731,130939,1753,0,5639,0.00,0
+2021-06-16,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,152047,138468,1649,0,5152,0.00,0
+2021-06-16,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,311940,285171,43011,0,42852,0.00,0
+2021-06-16,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1781,1749,88,5,88,0.00,0
+2021-06-16,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,8248,7336,247,0,812,0.00,0
+2021-06-16,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,9533,8556,226,0,1186,0.00,0
+2021-06-16,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,153524,141050,1596,0,8272,0.00,0
+2021-06-16,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,9327,8381,220,0,681,0.00,0
+2021-06-17,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,292407,159316,78190,0,78192,0.00,0
+2021-06-17,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,107264,100860,7969,0,7959,0.00,0
+2021-06-17,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,107585,99053,1324,0,4256,0.00,0
+2021-06-17,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,113828,105055,1184,0,3685,0.00,0
+2021-06-17,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,234290,216139,33825,0,33792,0.00,0
+2021-06-17,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1888,1879,70,0,70,0.00,0
+2021-06-17,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,33705,31153,752,0,2410,0.00,0
+2021-06-17,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,39452,36499,690,0,3653,0.00,0
+2021-06-17,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,115092,106454,1225,0,6396,0.00,0
+2021-06-17,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,43872,40469,637,0,1984,0.00,0
+2021-06-18,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,263867,145692,70827,0,70828,0.00,0
+2021-06-18,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,109986,102155,6052,0,6050,0.00,0
+2021-06-18,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,89928,82939,1071,0,3457,0.00,0
+2021-06-18,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,97914,90472,948,0,2952,0.00,0
+2021-06-18,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,189114,174790,25230,0,25201,0.00,0
+2021-06-18,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1592,1583,8,0,8,0.00,0
+2021-06-18,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,57733,53315,573,0,2008,0.00,0
+2021-06-18,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,68414,63196,402,0,2391,0.00,0
+2021-06-18,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,96463,89088,1001,0,5239,0.00,0
+2021-06-18,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,70286,65093,341,0,1102,0.00,0
+2021-06-19,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,243918,133920,65616,0,65617,0.00,0
+2021-06-19,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,104861,98075,6014,0,6010,0.00,0
+2021-06-19,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,84952,78899,908,0,2886,0.00,0
+2021-06-19,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,86611,80544,868,0,2693,0.00,0
+2021-06-19,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,171092,159596,22175,0,22161,0.00,0
+2021-06-19,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1615,1609,0,0,0,0.00,0
+2021-06-19,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,63578,59396,548,0,1788,0.00,0
+2021-06-19,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,74285,69567,372,0,2089,0.00,0
+2021-06-19,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,81559,75728,916,0,4847,0.00,0
+2021-06-19,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,74350,69375,376,0,1209,0.00,0
+2021-06-20,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,249390,139404,67983,0,67983,0.00,0
+2021-06-20,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,118516,110382,6596,0,6596,0.00,0
+2021-06-20,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,76133,71147,919,0,2980,0.00,0
+2021-06-20,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,79488,74322,853,0,2641,0.00,0
+2021-06-20,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,160943,150270,21674,0,21656,0.00,0
+2021-06-20,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1447,1442,0,0,0,0.00,0
+2021-06-20,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,67666,63444,574,0,1805,0.00,0
+2021-06-20,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,76909,71629,459,0,2413,0.00,0
+2021-06-20,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,81113,75897,833,0,4306,0.00,0
+2021-06-20,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,81125,75595,380,0,1217,0.00,0
+2021-06-21,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,296925,156956,76343,0,76345,0.00,0
+2021-06-21,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,133875,124658,6152,0,6148,0.00,0
+2021-06-21,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,93819,86467,895,0,2839,0.00,0
+2021-06-21,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,93008,85655,926,0,2917,0.00,0
+2021-06-21,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,178891,166222,23264,0,23240,0.00,0
+2021-06-21,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,2439,2437,4,0,4,0.00,0
+2021-06-21,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,80288,74762,653,0,2099,0.00,0
+2021-06-21,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,93335,86530,482,0,2529,0.00,0
+2021-06-21,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,88989,81952,962,0,5164,0.00,0
+2021-06-21,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,94084,87021,485,0,1546,0.00,0
+2021-06-22,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,271764,153818,74861,0,74863,0.00,0
+2021-06-22,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,130319,121656,5788,0,5782,0.00,0
+2021-06-22,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,80408,74301,910,0,2884,0.00,0
+2021-06-22,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,84366,78183,848,0,2631,0.00,0
+2021-06-22,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,169772,157460,21560,0,21528,0.00,0
+2021-06-22,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,2062,2057,14,0,14,0.00,0
+2021-06-22,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,81811,75821,700,0,2204,0.00,0
+2021-06-22,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,94539,87510,518,0,2807,0.00,0
+2021-06-22,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,80918,74790,907,0,4742,0.00,0
+2021-06-22,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,91778,85113,472,0,1492,0.00,0
+2021-06-23,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,279310,156562,76305,0,76310,0.00,0
+2021-06-23,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,131600,121623,8009,0,7991,0.00,0
+2021-06-23,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,84941,77760,927,0,3042,0.00,0
+2021-06-23,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,88412,81100,883,0,2791,0.00,0
+2021-06-23,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,178818,165320,23216,0,23180,0.00,0
+2021-06-23,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1902,1876,4,0,4,0.00,0
+2021-06-23,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,80576,74112,701,0,2210,0.00,0
+2021-06-23,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,86692,79603,578,0,2985,0.00,0
+2021-06-23,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,87084,79801,916,0,4810,0.00,0
+2021-06-23,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,91046,83994,488,0,1489,0.00,0
+2021-06-24,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,247415,138220,67178,0,67178,0.00,0
+2021-06-24,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,120555,111906,6166,0,6159,0.00,0
+2021-06-24,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,73364,66846,913,0,2909,0.00,0
+2021-06-24,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,77237,70536,859,0,2661,0.00,0
+2021-06-24,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,160971,147683,22381,0,22350,0.00,0
+2021-06-24,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1272,1256,15,0,15,0.00,0
+2021-06-24,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,71039,65444,618,0,2026,0.00,0
+2021-06-24,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,81871,75440,460,0,2467,0.00,0
+2021-06-24,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,75519,68936,883,0,4703,0.00,0
+2021-06-24,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,79304,73225,472,0,1479,0.00,0
+2021-06-25,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,237486,133946,64539,0,64540,0.00,0
+2021-06-25,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,118792,110530,6481,0,6479,0.00,0
+2021-06-25,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,69473,63125,818,0,2576,0.00,0
+2021-06-25,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,70971,64608,785,0,2456,0.00,0
+2021-06-25,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,145643,133852,21920,0,21898,0.00,0
+2021-06-25,7457915c-d5f3-477a-86ed-374191b8c12f,Desafio Rivalo - 27.06,vast,CPV,Desafio,1155,1927,435,0,435,0.15,100000
+2021-06-25,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,2208,2206,0,0,0,0.00,0
+2021-06-25,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,81373,75274,482,0,1542,0.00,0
+2021-06-25,c1d34af9-5d1b-4bdf-a33a-1340f852c3ee,Campanha Rivelo Calhau - 27.06,vast,CPV,Avulso,0,0,0,0,0,0.15,70000
+2021-06-25,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,83588,77248,482,0,2710,0.00,0
+2021-06-25,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,69184,62912,840,0,4497,0.00,0
+2021-06-25,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,83845,77742,383,0,1179,0.00,0
+2021-06-26,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,176459,98382,47807,0,47809,0.00,0
+2021-06-26,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,106487,98859,5072,0,5067,0.00,0
+2021-06-26,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,70687,63934,782,0,2540,0.00,0
+2021-06-26,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,72679,65721,735,0,2266,0.00,0
+2021-06-26,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,140020,128982,16618,0,16611,0.00,0
+2021-06-26,7457915c-d5f3-477a-86ed-374191b8c12f,Desafio Rivalo - 27.06,vast,CPV,Desafio,48050,81096,19236,0,19035,0.15,100000
+2021-06-26,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1875,1852,0,0,0,0.00,0
+2021-06-26,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,69581,64202,567,0,1802,0.00,0
+2021-06-26,c1d34af9-5d1b-4bdf-a33a-1340f852c3ee,Campanha Rivelo Calhau - 27.06,vast,CPV,Avulso,49004,12106,5968,0,5968,0.15,70000
+2021-06-26,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,78975,72765,424,0,2183,0.00,0
+2021-06-26,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,72248,65347,731,0,3803,0.00,0
+2021-06-26,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,75326,69530,439,0,1366,0.00,0
+2021-06-27,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,41901,22178,10843,0,10843,0.00,0
+2021-06-27,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,144604,134089,5983,0,5979,0.00,0
+2021-06-27,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,158618,139416,748,0,2360,0.00,0
+2021-06-27,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,159998,140461,705,0,2227,0.00,0
+2021-06-27,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,129452,119243,5709,0,5705,0.00,0
+2021-06-27,7457915c-d5f3-477a-86ed-374191b8c12f,Desafio Rivalo - 27.06,vast,CPV,Desafio,239895,422658,103380,0,103299,0.15,100000
+2021-06-27,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1582,1577,63,0,63,0.00,0
+2021-06-27,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,100089,91844,619,0,1961,0.00,0
+2021-06-27,c1d34af9-5d1b-4bdf-a33a-1340f852c3ee,Campanha Rivelo Calhau - 27.06,vast,CPV,Avulso,247785,71758,35529,0,35532,0.15,70000
+2021-06-27,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,108071,99067,472,0,2520,0.00,0
+2021-06-27,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,150011,131734,795,0,4222,0.00,0
+2021-06-27,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,111563,103027,380,0,1193,0.00,0
+2021-06-28,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,221109,122798,59926,0,59930,0.00,0
+2021-06-28,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,121994,113651,5861,0,5857,0.00,0
+2021-06-28,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,61972,57116,848,0,2706,0.00,0
+2021-06-28,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,63709,59002,782,0,2437,0.00,0
+2021-06-28,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,117709,109401,14999,0,14987,0.00,0
+2021-06-28,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,889,875,6,0,6,0.00,0
+2021-06-28,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,79025,73121,637,0,2013,0.00,0
+2021-06-28,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,87873,81448,478,0,2520,0.00,0
+2021-06-28,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,63117,58250,839,0,4388,0.00,0
+2021-06-28,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,91814,85109,406,0,1254,0.00,0
+2021-06-29,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,244624,130378,64193,0,64197,0.00,0
+2021-06-29,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,128293,116383,5433,0,5401,0.00,0
+2021-06-29,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,71729,63682,815,0,2661,0.00,0
+2021-06-29,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,76017,67626,735,0,2256,0.00,0
+2021-06-29,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,133930,121641,13155,0,13102,0.00,0
+2021-06-29,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1329,1310,1,0,1,0.00,0
+2021-06-29,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,83442,74279,591,0,1869,0.00,0
+2021-06-29,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,91074,81273,458,0,2408,0.00,0
+2021-06-29,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,77251,68795,734,0,3833,0.00,0
+2021-06-29,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,94220,84286,373,0,1168,0.00,0
+2021-06-30,3f794e6b-b385-4ef9-b9c7-06dbb290814e,Campanha Calhau - Fallback (Claro Promo) - V2 | Globo | X,vast,CPV,Avulso,312313,90142,44277,0,44279,0.00,0
+2021-06-30,5a4bb903-050c-4d6e-a996-4ba6f7bd085d,Avulso - Mediação,programatica,CPV,Desafio,146037,134160,5853,0,5845,0.00,0
+2021-06-30,5db1c3fc-b592-417e-83cc-364d958c304e,Desafio da fortuna | Netflix | X,programatica,CPV,Desafio,219614,186781,672,0,2106,0.00,0
+2021-06-30,67a4a982-46a3-4f4f-922a-bffe9dfebf05,#rumo ao diamante,programatica,CPV,Desafio,219970,187372,649,0,2003,0.00,0
+2021-06-30,6dc62b92-ea79-4e61-b3df-7f7ed10dcf47,Avulso,programatica,CPV,Desafio,109151,98100,3261,0,3259,0.00,0
+2021-06-30,7f537cf8-19c7-4895-be23-79e99a3192d4,Mídia Claro free 10/02 | Magazine Luiza | X,programatica,FIXED_CPM,Avulso,1260,1255,4,0,4,0.00,0
+2021-06-30,93ffc7f7-ba16-4fec-b0a9-1c38274805da,#rumo ao diamante - Mediação,programatica,CPV,Desafio,101616,93104,630,0,1966,0.00,0
+2021-06-30,d58a9306-076e-48cb-bddc-a9e42dd4575a,Dobro de moedas - Mediação,programatica,CPV,Desafio,109400,99972,537,0,2730,0.00,0
+2021-06-30,d90b2203-558e-4ad9-97cb-2ea74ec79d3c,Dobro de moedas,programatica,CPV,Desafio,208667,177159,712,0,3778,0.00,0
+2021-06-30,e391fb35-2e68-4393-8d29-52d83e299832,Desafio da Fortuna - Mediação,programatica,CPV,Desafio,112088,102681,439,0,1351,0.00,0
