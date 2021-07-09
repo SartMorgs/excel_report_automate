@@ -61,7 +61,7 @@ There are necessary to create folders, you can do that on console or with IaaC, 
 
 ![s3 bucket folders](img/s3_bucket_folders.png)
 
-So, for replicate the test done in this case, using [this codew](code/s2_script.py), you can run these command:
+So, for replicate the test done in this case, using [this code](code/s3_script.py), you can run these command:
 
 ```bash
 python code/s3_script.py
