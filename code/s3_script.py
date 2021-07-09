@@ -191,12 +191,10 @@ class ClaroFreeAutomateReports:
 
         print(f'Created report {report} in s3://{self.s3_bucket}/{file_name}\n')
 
-        
+
 if __name__ == "__main__":
     claro_free_automate_reports = ClaroFreeAutomateReports()
-    # claro_free_automate_reports.all_reports_on_table()
-    response = claro_free_automate_reports.s3_resource.Bucket(claro_free_automate_reports.s3_bucket).Object(key='source-querys/dedc2018-f65b-4de0-aba4-10fbd745b5a4.csv').get()
-    claro_free_automate_reports.all_reports_on_table = pd.read_csv(io.BytesIO(response['Body'].read()), encoding='utf8') 
+    claro_free_automate_reports.all_reports_on_table()
     claro_free_automate_reports.all_reports_on_s3()
 
     print(f'Reports on table: {claro_free_automate_reports.all_reports_on_table}\n')
