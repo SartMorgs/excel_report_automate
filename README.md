@@ -16,7 +16,7 @@ Looking for that, there were assumed some premises:
 
 You can look for report model [here](/reportmodel)
 
-## Solution local test
+## Local solution validation
 
 And, there are the solution tested in this repository:
 
@@ -41,4 +41,28 @@ After that you can just run the scripts on code directory. There are two scripts
 ```bash
 python code/script.py
 python code/new_script.py
+```
+
+## Solution test on AWS S3
+
+First of all I need to access some AWS services, and for this is necessary to configure aws credentials. I am using federated access for this, beacause I can have temporary credentials.
+
+```bash
+saml2aws login
+```
+
+Now the model easily be uploaded on bucket, 
+
+```bash
+aws s3 mv reportmodel/model.xlsx s3://bucket-name
+```
+
+There are necessary to create folders, you can do that on console or with IaaC, doesn't matter for now. 
+
+![s3 bucket folders](img/s3_bucket_folders.png)
+
+So, for replicate the test done in this case, using [this codew](code/s2_script.py), you can run these command:
+
+```bash
+python code/s3_script.py
 ```
